@@ -1,0 +1,13 @@
+name: a6-shiny-cyates3
+title: a6-shiny-cyates3
+username:
+account: cyates3
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2375933
+bundleId: 3207261
+url: https://cyates3.shinyapps.io/a6-shiny-cyates3/
+when: 1590815740.42542
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: LICENSE|README.md|rubric.md
